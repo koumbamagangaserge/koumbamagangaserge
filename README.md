@@ -1,6 +1,10 @@
 # Serge Alain Koumba Maganga
-
 AI | Cybersecurity | Business Strategy | Longevity Research
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Advanced-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-green)
+![Business Strategy](https://img.shields.io/badge/Business%20Strategy-DBA-orange)
+![Longevity Research](https://img.shields.io/badge/Longevity%20Research-Active-purple)
 
 Welcome to my GitHub profile.
 
