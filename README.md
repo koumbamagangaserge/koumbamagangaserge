@@ -35,12 +35,19 @@ I have a strong and growing interest in the field of human longevity, particular
 
 My ambition is to actively contribute to the advancement of solutions that aim to extend healthy human lifespan and improve quality of life.
 
-## Projects
+## Featured Projects
 
-- Computer Vision (OpenCV)
-- AI Decision Support Systems
-- Cybersecurity Practicals
-- AI & Longevity Research
+### Computer Vision — OpenCV
+Applied image processing techniques including color detection, edge detection, and image blending.
+
+### AI Decision Support Systems
+Development of data-driven models to support strategic and operational decision-making.
+
+### Cybersecurity Practicals
+Hands-on work in system security, network analysis, and vulnerability assessment.
+
+### AI & Longevity Research
+Exploration of artificial intelligence applications in human longevity, including cellular aging and organ regeneration.
 
 ## Tools & Technologies
 
@@ -57,7 +64,21 @@ My ambition is to actively contribute to the advancement of solutions that aim t
 
 Developing practical and strategic expertise in AI, cybersecurity, and their applications in both business systems and emerging scientific domains such as longevity.
 
+## Strategic Positioning
+
+My profile is intentionally positioned at the intersection of:
+
+- Artificial Intelligence (technology and innovation)
+- Cybersecurity (risk and resilience)
+- Business Strategy (decision-making and governance)
+- Longevity Research (human-centric future challenges)
+
+This integrated approach enables me to contribute to both organizational performance and long-term scientific advancement.
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/serge-alain-koumba-maganga-749bb21b3/
 - Email: koumbamagangas@gmail.com
+
+**Serge Alain Koumba Maganga**  
+AI | Cybersecurity | Business Strategy | Longevity Research
