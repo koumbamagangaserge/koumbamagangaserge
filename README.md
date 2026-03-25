@@ -80,5 +80,7 @@ This integrated approach enables me to contribute to both organizational perform
 - LinkedIn: https://www.linkedin.com/in/serge-alain-koumba-maganga-749bb21b3/
 - Email: koumbamagangas@gmail.com
 
+
+
 **Serge Alain Koumba Maganga**  
 AI | Cybersecurity | Business Strategy | Longevity Research
