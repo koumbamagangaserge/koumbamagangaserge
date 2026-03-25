@@ -55,5 +55,5 @@ Developing practical and strategic expertise in AI, cybersecurity, and their app
 
 ## Contact
 
-- LinkedIn: (add your link here)
+- LinkedIn: https://www.linkedin.com/in/serge-alain-koumba-maganga-749bb21b3/
 - Email: koumbamagangas@gmail.com
