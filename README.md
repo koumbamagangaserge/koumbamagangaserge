@@ -75,7 +75,7 @@ My profile is intentionally positioned at the intersection of:
 
 This integrated approach enables me to contribute to both organizational performance and long-term scientific advancement.
 
-## Contact
+## Contacts
 
 - LinkedIn: https://www.linkedin.com/in/serge-alain-koumba-maganga-749bb21b3/
 - Email: koumbamagangas@gmail.com
